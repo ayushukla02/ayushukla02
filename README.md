@@ -1,5 +1,5 @@
-# 💫 About Me: {
-🔭 I’m currently working on:Web development<br>👯 I’m looking to collaborate on:#Mern #Full Stack Web<br>🌱 I’m currently learning:#mern,springboot,devops<br>⚡ Fun fact : On One is Perfect buddy😉}
+# 💫 About Me: 
+{🔭 I’m currently working on:Web development<br>👯 I’m looking to collaborate on:#Mern #Full Stack Web<br>🌱 I’m currently learning:#mern,springboot,devops<br>⚡ Fun fact : No one is Perfect buddy😉}
 
 
 ## 🌐 Socials:
