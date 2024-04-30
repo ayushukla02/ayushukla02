@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me: {
+🔭 I’m currently working on:Web development<br>👯 I’m looking to collaborate on:#Mern #Full Stack Web<br>🌱 I’m currently learning:#mern,springboot,devops<br>⚡ Fun fact : On One is Perfect buddy😉}
 
 
 ## 🌐 Socials:
