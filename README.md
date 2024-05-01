@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ## **<div align="center">I'm Ayush, a full-time full-stack developer 👨‍💻</div>**  
   
@@ -9,10 +5,10 @@
 - 🔭 I’m currently working on #full stack web project  
   
 
-- *🌱 I’m currently learning Mern,Springboot,Devops*  
+- *🌱 I’m currently learning Mern, Springboot, DevOps*  
   
 
-- ❓ Ask me about MERN stack and connecting technologies  
+- ❓ Ask me about the MERN stack and connecting technologies  
   
 
 - ##### ⚡ Fun fact: good developer only needs debugging skill rest is ctrl C/ctrl V😉   
@@ -114,10 +110,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
